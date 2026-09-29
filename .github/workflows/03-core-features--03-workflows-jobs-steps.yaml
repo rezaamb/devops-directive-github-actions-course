@@ -35,7 +35,7 @@ jobs:
       - job-1
     steps:
       - run: echo "...to form a directed acyclic graph (DAG)"
-  job-5:
+  job-6:
     runs-on: ubuntu-24.04
     steps:
       - run: echo "سلام دوست من"
